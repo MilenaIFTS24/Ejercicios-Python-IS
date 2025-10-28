@@ -20,11 +20,14 @@ opciones hasta que decida salir.
 
 ____
 Me olvidé de aclarar el objetivo: es para un control de gastos personales, con los siguientes campos: Categoría, monto, fecha, descripción y un identificador único para usar en la búsqueda, actualización, etc.
-
 ____
 El ejercicio debe estar hecho de manera sencilla, para principiantes en python.
 ____
 Quitá el uso de la palabra reservada global. En vez de usar time.sleep, poné un input que le pida al usuario presionar enter para continuar.
+____
+Agrega la opción en el menú para que el usuario elija cargar el archivo gastos.json
+____
+Quita la linea opcional if __name__ == "__main__":
 ____
 Asegurate de que cada línea del programa esté documentada.
 ____
